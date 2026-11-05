@@ -1,0 +1,936 @@
+{
+  "family": "Bosch EDC17",
+  "slug": "bosch-edc17",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-edc17-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 699,
+  "brands": {
+    "BMW": [
+      "EDC17C02",
+      "EDC17C41",
+      "EDC17C42",
+      "EDC17C50",
+      "EDC17C56",
+      "EDC17C76",
+      "EDC17CP01",
+      "EDC17CP02-C06",
+      "EDC17CP02_06",
+      "EDC17CP06",
+      "EDC17CP09",
+      "EDC17CP45-CP49",
+      "EDC17_C50_C56"
+    ],
+    "MINI": [
+      "EDC17C06",
+      "EDC17C41",
+      "EDC17C42",
+      "EDC17C50",
+      "EDC17C56",
+      "EDC17C76",
+      "EDC17CP02",
+      "EDC17CP09",
+      "EDC17CP45-CP49",
+      "EDC17_C50_C56"
+    ],
+    "FIAT": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C24",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17C70",
+      "EDC17C79",
+      "EDC17C84",
+      "EDC17CP04",
+      "EDC17CP14",
+      "EDC17CP27",
+      "EDC17CP52"
+    ],
+    "ALFA ROMEO": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17C79",
+      "EDC17C84",
+      "EDC17CP04",
+      "EDC17CP14",
+      "EDC17CP27",
+      "EDC17CP52"
+    ],
+    "LANCIA": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17C79",
+      "EDC17C84",
+      "EDC17CP04",
+      "EDC17CP14",
+      "EDC17CP27",
+      "EDC17CP52"
+    ],
+    "JEEP": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C27",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17C79",
+      "EDC17C84",
+      "EDC17CP04",
+      "EDC17CP14",
+      "EDC17CP27",
+      "EDC17CP52"
+    ],
+    "ABARTH": [
+      "EDC17C49",
+      "EDC17C84",
+      "EDC17CP14"
+    ],
+    "CHRYSLER": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17C79",
+      "EDC17C84",
+      "EDC17CP04",
+      "EDC17CP14",
+      "EDC17CP27",
+      "EDC17CP52"
+    ],
+    "RAM": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17C79",
+      "EDC17C84",
+      "EDC17CP04",
+      "EDC17CP14",
+      "EDC17CP27",
+      "EDC17CP52"
+    ],
+    "FORD": [
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C46",
+      "EDC17C70",
+      "EDC17CP04",
+      "EDC17CP05",
+      "EDC17CP42",
+      "EDC17CP65"
+    ],
+    "HONDA": [
+      "EDC17C01",
+      "EDC17C08",
+      "EDC17C50-CP50",
+      "EDC17C58-CP58",
+      "EDC17CP06-16"
+    ],
+    "HYUNDAI": [
+      "EDC17C01",
+      "EDC17C08",
+      "EDC17C53",
+      "EDC17C57",
+      "EDC17CP14"
+    ],
+    "KIA": [
+      "EDC17C08",
+      "EDC17C53",
+      "EDC17C57",
+      "EDC17CP14"
+    ],
+    "ISUZU": [
+      "EDC17C09",
+      "EDC17C81",
+      "EDC17C83",
+      "EDC17CP45-CP49",
+      "EDC17CV41"
+    ],
+    "JAC": [
+      "EDC17C81"
+    ],
+    "LAND ROVER": [
+      "EDC17C08",
+      "EDC17CP11",
+      "EDC17CP42",
+      "EDC17CP55",
+      "MEDC17.9"
+    ],
+    "JAGUAR": [
+      "EDC17C08",
+      "EDC17CP11",
+      "EDC17CP42",
+      "EDC17CP55",
+      "MEDC17.9"
+    ],
+    "MAHINDRA": [
+      "EDC17C53",
+      "EDC17C55",
+      "EDC17C81"
+    ],
+    "MASERATI": [
+      "EDC17C79"
+    ],
+    "MERCEDES-BENZ": [
+      "EDC17C01",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C57",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C84",
+      "EDC17CP01",
+      "EDC17CP10",
+      "EDC17CP57",
+      "MEDC17"
+    ],
+    "SMART": [
+      "EDC17C01",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C57",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C84",
+      "EDC17CP01",
+      "EDC17CP10",
+      "EDC17CP57",
+      "MEDC17"
+    ],
+    "MAYBACH": [
+      "EDC17C01",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C57",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C84",
+      "EDC17CP01",
+      "EDC17CP10",
+      "EDC17CP57",
+      "MEDC17"
+    ],
+    "MITSUBISHI": [
+      "EDC17C49",
+      "EDC17CP15",
+      "EDC17CP52"
+    ],
+    "OPEL": [
+      "EDC17C01",
+      "EDC17C11",
+      "EDC17C18-C19",
+      "EDC17C42",
+      "EDC17C59",
+      "EDC17C60",
+      "EDC17C69",
+      "EDC17C84",
+      "EDC17CP01",
+      "EDC17CP47"
+    ],
+    "CHEVROLET": [
+      "EDC17C01",
+      "EDC17C11",
+      "EDC17C18-C19",
+      "EDC17C42",
+      "EDC17C59",
+      "EDC17C60",
+      "EDC17C69",
+      "EDC17C84",
+      "EDC17CP18",
+      "EDC17CP47"
+    ],
+    "VAUXHALL": [
+      "EDC17C01",
+      "EDC17C11",
+      "EDC17C18-C19",
+      "EDC17C42",
+      "EDC17C59",
+      "EDC17C60",
+      "EDC17C69",
+      "EDC17C84",
+      "EDC17CP47"
+    ],
+    "PEUGEOT": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C42-CP42",
+      "EDC17CP04",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP52"
+    ],
+    "CITROËN": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C42-CP42",
+      "EDC17CP04",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP52"
+    ],
+    "DS": [
+      "EDC17C09",
+      "EDC17C10",
+      "EDC17C42-CP42",
+      "EDC17CP04",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP52"
+    ],
+    "RENAULT": [
+      "EDC17C01",
+      "EDC17C11",
+      "EDC17C42",
+      "EDC17C45",
+      "EDC17C84",
+      "EDC17CP11",
+      "EDC17CP19",
+      "EDC17CP51",
+      "EDC17CP58"
+    ],
+    "DACIA": [
+      "EDC17C10",
+      "EDC17C11",
+      "EDC17C42",
+      "EDC17C45",
+      "EDC17C84",
+      "EDC17CP11",
+      "EDC17CP19",
+      "EDC17CP51",
+      "EDC17CP58"
+    ],
+    "NISSAN": [
+      "EDC17C11",
+      "EDC17C42",
+      "EDC17C45",
+      "EDC17C84",
+      "EDC17CP11",
+      "EDC17CP19",
+      "EDC17CP51",
+      "EDC17CP58"
+    ],
+    "INFINITI": [
+      "EDC17C11",
+      "EDC17C42",
+      "EDC17C45",
+      "EDC17C84",
+      "EDC17CP11",
+      "EDC17CP19",
+      "EDC17CP51",
+      "EDC17CP58"
+    ],
+    "ALPINE": [
+      "EDC17C11",
+      "EDC17C42",
+      "EDC17C45",
+      "EDC17C84",
+      "EDC17CP11",
+      "EDC17CP19",
+      "EDC17CP51",
+      "EDC17CP58"
+    ],
+    "SUZUKI": [
+      "EDC17C49",
+      "EDC17C69"
+    ],
+    "TOYOTA": [
+      "EDC17C01",
+      "EDC17C46",
+      "EDC17C47",
+      "EDC17C60",
+      "EDC17C73",
+      "EDC17CP07-CP37"
+    ],
+    "LEXUS": [
+      "EDC17C01",
+      "EDC17C47",
+      "EDC17C60",
+      "EDC17C73",
+      "EDC17CP07-CP37"
+    ],
+    "VOLKSWAGEN": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP14 EDC17CP20",
+      "EDC17CP20",
+      "EDC17CP21",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP55",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17P44",
+      "EDC17U01-05",
+      "EDC17U1",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "AUDI": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "SEAT": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "SKODA": [
+      "EDC17.5.21",
+      "EDC17121",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C14",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "CUPRA": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C41",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "PORSCHE": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C41",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "LAMBORGHINI": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C41",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C53",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "BENTLEY": [
+      "EDC17121",
+      "EDC17521",
+      "EDC17C01",
+      "EDC17C06",
+      "EDC17C08",
+      "EDC17C10",
+      "EDC17C18",
+      "EDC17C19",
+      "EDC17C41",
+      "EDC17C42",
+      "EDC17C43-CP46",
+      "EDC17C46",
+      "EDC17C49",
+      "EDC17C54",
+      "EDC17C60",
+      "EDC17C64",
+      "EDC17C66",
+      "EDC17C69",
+      "EDC17C74",
+      "EDC17C79",
+      "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP04",
+      "EDC17CP10",
+      "EDC17CP11",
+      "EDC17CP14",
+      "EDC17CP20",
+      "EDC17CP24",
+      "EDC17CP42",
+      "EDC17CP44",
+      "EDC17CP54",
+      "EDC17CP57",
+      "EDC17CP74",
+      "EDC17U01-05",
+      "MEDC17",
+      "MEDC17521"
+    ],
+    "VOLVO": [
+      "EDC17CP22",
+      "EDC17CP48",
+      "EDC17CP68"
+    ],
+    "FERRARI": [
+      "EDC17C64"
+    ],
+    "SAAB": [
+      "EDC17C19",
+      "EDC17CP21"
+    ],
+    "MG": [
+      "EDC17C06",
+      "EDC17C54",
+      "EDC17CP02"
+    ],
+    "MAXUS": [
+      "EDC17C53",
+      "EDC17C81"
+    ],
+    "LDV": [
+      "EDC17C53",
+      "EDC17C81"
+    ],
+    "TATA": [
+      "EDC17C69"
+    ],
+    "SUBARU": [
+      "EDC17C01",
+      "EDC17CP07"
+    ],
+    "SAIC": [
+      "EDC17C53",
+      "EDC17C81"
+    ],
+    "JMC": [
+      "EDC17C63"
+    ],
+    "GREAT WALL": [
+      "EDC17C53",
+      "EDC17C81"
+    ],
+    "ROVER": [
+      "EDC17CP11",
+      "EDC17CP42"
+    ],
+    "CHANGAN": [
+      "EDC17C81"
+    ],
+    "GMC": [
+      "EDC17CP18"
+    ],
+    "DODGE": [
+      "EDC17C79"
+    ],
+    "MAN TRUCKS": [
+      "EDC17C32",
+      "EDC17C49",
+      "EDC17C7",
+      "EDC17CV41",
+      "EDC17CV42"
+    ],
+    "FENDT": [
+      "EDC17CV01",
+      "EDC17CV41",
+      "EDC17CV44",
+      "EDC17CV52",
+      "EDC17CV56"
+    ],
+    "SCANIA": [
+      "EDC17CV41"
+    ],
+    "CLAAS": [
+      "EDC17C53",
+      "EDC17CV41",
+      "EDC17CV42",
+      "EDC17CV52"
+    ],
+    "CASE IH": [
+      "EDC17C32",
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17CP52",
+      "EDC17CV41",
+      "EDC17CV54",
+      "EDC17UC31"
+    ],
+    "INTERNATIONAL": [
+      "EDC17CV42"
+    ],
+    "YANMAR": [
+      "EDC17CV54"
+    ],
+    "DAF": [
+      "EDC17C1",
+      "EDC17CV01"
+    ],
+    "DONGFENG": [
+      "EDC17C81"
+    ],
+    "KOBELCO": [
+      "EDC17CV54"
+    ],
+    "MTZ": [
+      "EDC17CV54"
+    ],
+    "DEUTZ": [
+      "EDC17C53",
+      "EDC17CV52",
+      "EDC17CV56"
+    ],
+    "JCB": [
+      "EDC17C01",
+      "EDC17CV41",
+      "EDC17CV44"
+    ],
+    "QMATEC": [
+      "EDC17CV52"
+    ],
+    "LANNEN": [
+      "EDC17CV41"
+    ],
+    "AGCO": [
+      "EDC17CV44"
+    ],
+    "MERCEDES-BENZ TRUCKS": [
+      "EDC17CV41",
+      "EDC17CV52"
+    ],
+    "NEW HOLLAND": [
+      "EDC17C49",
+      "EDC17C49_C",
+      "EDC17C69",
+      "EDC17CP52",
+      "EDC17CV41",
+      "EDC17CV54",
+      "EDC17UC31"
+    ],
+    "STEYR": [
+      "EDC17C49",
+      "EDC17C69",
+      "EDC17CP52",
+      "EDC17CV41",
+      "EDC17CV54",
+      "EDC17UC31"
+    ],
+    "FPT INDUSTRIAL": [
+      "EDC17C49",
+      "EDC17CP52",
+      "EDC17CV41",
+      "EDC17CV54",
+      "EDC17UC31"
+    ],
+    "MAROT": [
+      "EDC17CV52"
+    ],
+    "MULLINS": [
+      "EDC17CV41"
+    ],
+    "MAXXFORCE": [
+      "EDC17CV41"
+    ],
+    "ATLAS": [
+      "EDC17CV52"
+    ],
+    "AEBI SCHMIDT": [
+      "EDC17C49"
+    ],
+    "MANITOU": [
+      "EDC17CV52"
+    ],
+    "ZETOR": [
+      "EDC17CV52"
+    ],
+    "TAKEUCHI": [
+      "EDC17CV52"
+    ],
+    "KOMATSU": [
+      "EDC17CV54"
+    ],
+    "SAME": [
+      "EDC17C53"
+    ],
+    "PERKINS": [
+      "EDC17C49"
+    ],
+    "YTO MOTOR": [
+      "EDC17CV43"
+    ],
+    "DOOSAN": [
+      "EDC17C04",
+      "EDC17CV41",
+      "EDC17CV54"
+    ],
+    "MACK": [
+      "EDC17CV41"
+    ],
+    "KRAMER": [
+      "EDC17CV52"
+    ],
+    "HITACHI": [
+      "EDC17CV52"
+    ],
+    "HURLIMANN": [
+      "EDC17C53"
+    ],
+    "IVECO": [
+      "EDC17C49",
+      "EDC17CP52",
+      "EDC17CV41",
+      "EDC17CV54",
+      "EDC17UC31"
+    ],
+    "DEUTZ-FAHR": [
+      "EDC17CV52"
+    ],
+    "VOLVO TRUCKS": [
+      "EDC17CV41"
+    ],
+    "MITSUBISHI FUSO": [
+      "EDC17C49",
+      "EDC17CP15",
+      "EDC17CP52",
+      "EDC17CV54",
+      "EDC17CV55"
+    ],
+    "MASSEY FERGUSON": [
+      "EDC17CV41",
+      "EDC17CV44"
+    ],
+    "RENAULT TRUCKS": [
+      "EDC17CV41"
+    ],
+    "FORD TRUCKS": [
+      "EDC17CV41"
+    ],
+    "VALTRA": [
+      "EDC17CV41",
+      "EDC17CV44",
+      "EDC17CV54"
+    ],
+    "CATERPILLAR": [
+      "EDC17CV42"
+    ],
+    "KIOTI": [
+      "EDC17C01"
+    ],
+    "KENWORTH": [
+      "EDC17CV41"
+    ],
+    "CHALLENGER": [
+      "EDC17CV41",
+      "EDC17CV44"
+    ],
+    "FREIGHTLINER": [
+      "EDC17CV41"
+    ],
+    "LAMBORGHINI TRATTORI": [
+      "EDC17C53",
+      "EDC17CV52"
+    ],
+    "FUCHS": [
+      "EDC17CV52"
+    ],
+    "MERLO": [
+      "EDC17CV52"
+    ],
+    "VOLKSWAGEN TRUCKS": [
+      "EDC17CV41"
+    ],
+    "OTOCAR BUS": [
+      "EDC17CV41"
+    ]
+  }
+}
