@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch EDC17 ECU Calibration Software — Infineon Tricore Euro 5 / Euro 6 diesel ECU (EDC17C46, EDC17C60, EDC17C64, EDC17CP14, EDC17CP44, EDC17CV41) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-edc17-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-edc17-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
