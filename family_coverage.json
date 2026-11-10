@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc17-tuning-software",
     "https://www.aesoftech.eu/bosch-edc17-tuning-software"
   ],
-  "matched_variants_count": 700,
+  "matched_variants_count": 701,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -31,6 +31,7 @@
       "EDC17_C50_C56"
     ],
     "MINI": [
+      "EDC17C02",
       "EDC17C06",
       "EDC17C41",
       "EDC17C42",
