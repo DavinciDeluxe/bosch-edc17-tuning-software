@@ -12,23 +12,23 @@
     "https://www.davincideluxe.it/bosch-edc17-tuning-software",
     "https://www.aesoftech.eu/bosch-edc17-tuning-software"
   ],
-  "matched_variants_count": 702,
+  "matched_variants_count": 707,
   "brands": {
     "BMW": [
       "EDC17C02",
+      "EDC17C06",
       "EDC17C41",
       "EDC17C42",
-      "EDC17C50",
-      "EDC17C56",
+      "EDC17C50-C56",
       "EDC17C76",
       "EDC17CP01",
+      "EDC17CP02",
+      "EDC17CP02-06",
       "EDC17CP02-C06",
-      "EDC17CP02_06",
       "EDC17CP06",
       "EDC17CP09",
       "EDC17CP45-CP49",
-      "EDC17CP50",
-      "EDC17_C50_C56"
+      "EDC17CP50"
     ],
     "MINI": [
       "EDC17C02",
@@ -36,12 +36,12 @@
       "EDC17C41",
       "EDC17C42",
       "EDC17C50",
+      "EDC17C50_C56",
       "EDC17C56",
       "EDC17C76",
       "EDC17CP02",
       "EDC17CP09",
-      "EDC17CP45-CP49",
-      "EDC17_C50_C56"
+      "EDC17CP45-CP49"
     ],
     "FIAT": [
       "EDC17C09",
@@ -277,6 +277,7 @@
       "EDC17C09",
       "EDC17C10",
       "EDC17C42-CP42",
+      "EDC17C60",
       "EDC17CP04",
       "EDC17CP11",
       "EDC17CP14",
@@ -401,6 +402,7 @@
       "EDC17P44",
       "EDC17U01-05",
       "EDC17U1",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -438,6 +440,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -475,6 +478,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -513,6 +517,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -551,6 +556,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -589,6 +595,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -628,6 +635,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -666,6 +674,7 @@
       "EDC17CP57",
       "EDC17CP74",
       "EDC17U01-05",
+      "EDC17U31",
       "MEDC17",
       "MEDC17521"
     ],
@@ -751,7 +760,6 @@
     "CASE IH": [
       "EDC17C32",
       "EDC17C49",
-      "EDC17C69",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
@@ -801,8 +809,6 @@
     ],
     "NEW HOLLAND": [
       "EDC17C49",
-      "EDC17C49_C",
-      "EDC17C69",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
@@ -810,7 +816,6 @@
     ],
     "STEYR": [
       "EDC17C49",
-      "EDC17C69",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
