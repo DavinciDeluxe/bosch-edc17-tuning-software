@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc17-tuning-software",
     "https://www.aesoftech.eu/bosch-edc17-tuning-software"
   ],
-  "matched_variants_count": 690,
+  "matched_variants_count": 680,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -107,18 +107,6 @@
       "EDC17CP14"
     ],
     "CHRYSLER": [
-      "EDC17C09",
-      "EDC17C10",
-      "EDC17C49",
-      "EDC17C69",
-      "EDC17C79",
-      "EDC17C84",
-      "EDC17CP04",
-      "EDC17CP14",
-      "EDC17CP27",
-      "EDC17CP52"
-    ],
-    "RAM": [
       "EDC17C09",
       "EDC17C10",
       "EDC17C49",
@@ -819,11 +807,6 @@
       "EDC17CV52",
       "EDC17CV56"
     ],
-    "DOOSAN": [
-      "EDC17C04",
-      "EDC17CV41",
-      "EDC17CV54"
-    ],
     "SCANIA": [
       "EDC17CV41"
     ],
@@ -910,6 +893,11 @@
     ],
     "HITACHI": [
       "EDC17CV52"
+    ],
+    "DOOSAN": [
+      "EDC17C04",
+      "EDC17CV41",
+      "EDC17CV54"
     ]
   }
 }
