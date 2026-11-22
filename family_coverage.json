@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc17-tuning-software",
     "https://www.aesoftech.eu/bosch-edc17-tuning-software"
   ],
-  "matched_variants_count": 680,
+  "matched_variants_count": 681,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -722,6 +722,9 @@
     ],
     "DODGE": [
       "EDC17C79"
+    ],
+    "JAGUAR XJ": [
+      "EDC17CP11"
     ],
     "CASE IH": [
       "EDC17C49",
