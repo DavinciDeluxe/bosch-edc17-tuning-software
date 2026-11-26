@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc17-tuning-software",
     "https://www.aesoftech.eu/bosch-edc17-tuning-software"
   ],
-  "matched_variants_count": 695,
+  "matched_variants_count": 702,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -466,6 +466,7 @@
       "EDC17CP11",
       "EDC17CP14",
       "EDC17CP20",
+      "EDC17CP21",
       "EDC17CP24",
       "EDC17CP42",
       "EDC17CP44",
@@ -504,6 +505,7 @@
       "EDC17CP11",
       "EDC17CP14",
       "EDC17CP20",
+      "EDC17CP21",
       "EDC17CP24",
       "EDC17CP42",
       "EDC17CP44",
@@ -542,6 +544,7 @@
       "EDC17CP11",
       "EDC17CP14",
       "EDC17CP20",
+      "EDC17CP21",
       "EDC17CP24",
       "EDC17CP42",
       "EDC17CP44",
@@ -580,6 +583,7 @@
       "EDC17CP11",
       "EDC17CP14",
       "EDC17CP20",
+      "EDC17CP21",
       "EDC17CP24",
       "EDC17CP42",
       "EDC17CP44",
@@ -619,6 +623,7 @@
       "EDC17CP11",
       "EDC17CP14",
       "EDC17CP20",
+      "EDC17CP21",
       "EDC17CP24",
       "EDC17CP42",
       "EDC17CP44",
@@ -657,6 +662,7 @@
       "EDC17CP11",
       "EDC17CP14",
       "EDC17CP20",
+      "EDC17CP21",
       "EDC17CP24",
       "EDC17CP42",
       "EDC17CP44",
@@ -837,6 +843,7 @@
       "EDC17CV56"
     ],
     "VOLKSWAGEN TRUCKS": [
+      "EDC17C46",
       "EDC17CV41"
     ],
     "KIOTI": [
