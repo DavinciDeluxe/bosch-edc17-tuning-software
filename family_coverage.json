@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc17-tuning-software",
     "https://www.aesoftech.eu/bosch-edc17-tuning-software"
   ],
-  "matched_variants_count": 705,
+  "matched_variants_count": 706,
   "brands": {
     "PEUGEOT": [
       "EDC17C09",
@@ -26,6 +26,7 @@
     "ABARTH": [
       "EDC17C49",
       "EDC17C84",
+      "EDC17CP04",
       "EDC17CP14"
     ],
     "ALFA ROMEO": [
@@ -461,11 +462,6 @@
       "EDC17C73",
       "EDC17CP07-CP37"
     ],
-    "MAHINDRA": [
-      "EDC17C53",
-      "EDC17C55",
-      "EDC17C81"
-    ],
     "MASERATI": [
       "EDC17C79"
     ],
@@ -508,6 +504,11 @@
       "EDC17C49",
       "EDC17CP15",
       "EDC17CP52"
+    ],
+    "MAHINDRA": [
+      "EDC17C53",
+      "EDC17C55",
+      "EDC17C81"
     ],
     "NISSAN": [
       "EDC17C11",
